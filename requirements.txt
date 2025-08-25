@@ -23,3 +23,5 @@ ipykernel
 langserve[all]
 google-genai
 langchain-openai
+uvicorn
+fastapi
