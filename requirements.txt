@@ -20,3 +20,5 @@ sentence_transformers
 youtube_search
 yfinance
 ipykernel
+langserve[all]
+google-genai
