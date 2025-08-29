@@ -26,3 +26,4 @@ langchain-openai
 uvicorn
 fastapi
 langchain_groq
+chromadb
