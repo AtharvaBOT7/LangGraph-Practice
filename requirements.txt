@@ -29,3 +29,4 @@ langchain_groq
 chromadb
 wikipedia
 sentence_transformers
+streamlit
