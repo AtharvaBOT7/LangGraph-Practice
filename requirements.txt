@@ -31,3 +31,4 @@ wikipedia
 sentence_transformers
 streamlit
 langchain_tavily
+duckduckgo-search
