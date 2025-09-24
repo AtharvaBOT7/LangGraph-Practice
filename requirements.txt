@@ -33,3 +33,6 @@ streamlit
 langchain_tavily
 duckduckgo-search
 yfinance
+langchain_experimental
+pyppeteer 
+nest_asyncio
